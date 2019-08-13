@@ -1,7 +1,7 @@
 const numberInputs = document.getElementsByClassName('number-input');
 const resultElement = document.getElementsByClassName('result')[0];
-// const selectElement = document.getElementsByTagName('select')[0];
- const operation = document.getElementsByClassName('text-input')[0]
+const selectElement = document.getElementsByTagName('select')[0];
+ const operation = document.getElementsByClassName('options')[0]
 
 
 function clickHandler(){
